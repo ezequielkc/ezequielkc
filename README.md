@@ -7,7 +7,7 @@ Profissional do marketing se especializando em desenvolvimento backend.
 
 ---
 
-### ⚙️ Tech Stack
+#### ⚙️ Tech Stack
 
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
@@ -16,7 +16,7 @@ Profissional do marketing se especializando em desenvolvimento backend.
 
 ---
 
-### 🌐 Me acompanhe nas redes
+#### 🌐 Me acompanhe nas redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielkc/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ezequielkowalski/)
