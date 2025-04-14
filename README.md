@@ -2,7 +2,7 @@
 
 Profissional do marketing se especializando em desenvolvimento backend. 
 
-- 💼 Foco em desenvolvimento backend, IA e aplicações web.  
+- 💼 Foco em desenvolvimento backend, IA e aplicações web
 - 🧠 Background em marketing com transição para tecnologia  
 
 ---
