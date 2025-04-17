@@ -1,8 +1,8 @@
 # Ezequiel Kowalski
 
-Profissional do marketing se especializando em desenvolvimento backend. 
+Profissional do marketing se especializando em desenvolvimento full stack. 
 
-- 💼 Foco em desenvolvimento backend, IA e aplicações web  
+- 👨🏻‍💻 Desenvolvimento de back‑end, front‑end, aplicações web e soluções em inteligência artificial (IA)
 - 🧠 Background em marketing com transição para tecnologia  
 
 ---
