@@ -2,7 +2,7 @@
 
 Profissional do marketing se especializando em desenvolvimento backend. 
 
-- 💼 Foco em desenvolvimento backend, IA e aplicações web
+- 💼 Foco em desenvolvimento backend, IA e aplicações web  
 - 🧠 Background em marketing com transição para tecnologia  
 
 ---
@@ -22,10 +22,13 @@ Profissional do marketing se especializando em desenvolvimento backend.
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </a>
 
-
 ---
 
 #### 🌐 Me acompanhe nas redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielkc/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ezequielkowalski/)
+<a href="https://www.linkedin.com/in/ezequielkc/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/ezequielkowalski/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
