@@ -3,7 +3,7 @@
 Profissional do marketing com foco em soluções martech. 
 
 - 👨🏻‍💻 Desenvolvimento de back‑end, front‑end, aplicações web e soluções em inteligência artificial (IA)
-- 🧠 Background em marketing com transição para tecnologia  
+- 🧠 Background em marketing com capacitação em tecnologia  
 
 ---
 
