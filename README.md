@@ -1,6 +1,6 @@
 # Ezequiel Kowalski
 
-Profissional do marketing se especializando em soluções martech. 
+Profissional do marketing com foco em soluções martech. 
 
 - 👨🏻‍💻 Desenvolvimento de back‑end, front‑end, aplicações web e soluções em inteligência artificial (IA)
 - 🧠 Background em marketing com transição para tecnologia  
